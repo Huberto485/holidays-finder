@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: holidays-finder-deployment
+  labels:
+    app: holidays-finder
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: holidays-finder
+  template:
+    metadata:
+      labels:
+        app: holidays-finder
+    spec:
+      containers:
+      - name: holidays-finder
+        image: holidays-finder:latest
+        ports:
+        - containerPort: 8080
+        imagePullPolicy: IfNotPresent
