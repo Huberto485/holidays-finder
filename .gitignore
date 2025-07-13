@@ -6,6 +6,14 @@
 *.user
 *.sln.docstates
 
+# Docker
+[Dd]ockerfile
+*.dockerignore
+compose.yaml
+
+# Kubernetes
+K8s/
+
 # Build results
 
 [Dd]ebug/

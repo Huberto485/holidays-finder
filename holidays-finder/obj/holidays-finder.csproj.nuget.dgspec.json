@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Repos\\holidays-finder\\holidays-finder\\holidays-finder.csproj": {}
+    "E:\\Repos\\holidays-finder\\holidays-finder\\holidays-finder.csproj": {}
   },
   "projects": {
-    "e:\\Repos\\holidays-finder\\holidays-finder\\holidays-finder.csproj": {
+    "E:\\Repos\\holidays-finder\\holidays-finder\\holidays-finder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Repos\\holidays-finder\\holidays-finder\\holidays-finder.csproj",
+        "projectUniqueName": "E:\\Repos\\holidays-finder\\holidays-finder\\holidays-finder.csproj",
         "projectName": "holidays-finder",
-        "projectPath": "e:\\Repos\\holidays-finder\\holidays-finder\\holidays-finder.csproj",
+        "projectPath": "E:\\Repos\\holidays-finder\\holidays-finder\\holidays-finder.csproj",
         "packagesPath": "C:\\Users\\bread\\.nuget\\packages\\",
-        "outputPath": "e:\\Repos\\holidays-finder\\holidays-finder\\obj\\",
+        "outputPath": "E:\\Repos\\holidays-finder\\holidays-finder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
