@@ -1,0 +1,17 @@
+@page "/holidays"
+
+<title>Holidays search</title>
+
+<button class="btn btn-primary" @onclick="SearchHolidays">Search</button>
+
+<button class="btn btn-primary">You are gay</button>
+
+<p>@searchForHolidays</p>
+
+@code{
+    public bool searchForHolidays = false;
+
+    private void SearchHolidays(){
+        searchForHolidays = true;
+    }
+}

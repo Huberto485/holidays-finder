@@ -9,47 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = holidays-finder
 build_property.RootNamespace = holidays-finder
-build_property.ProjectDir = E:\Repos\holidays-finder\holidays-finder\
+build_property.ProjectDir = e:\Repos\holidays-finder\holidays-finder\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Repos\holidays-finder\holidays-finder
+build_property.MSBuildProjectDirectory = e:\Repos\holidays-finder\holidays-finder
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Repos/holidays-finder/holidays-finder/Components/App.razor]
+[e:/Repos/holidays-finder/holidays-finder/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Repos/holidays-finder/holidays-finder/Components/Pages/Counter.razor]
+[e:/Repos/holidays-finder/holidays-finder/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Repos/holidays-finder/holidays-finder/Components/Pages/Error.razor]
+[e:/Repos/holidays-finder/holidays-finder/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Repos/holidays-finder/holidays-finder/Components/Pages/Home.razor]
+[e:/Repos/holidays-finder/holidays-finder/Components/Pages/Holidays.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb2xpZGF5cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Repos/holidays-finder/holidays-finder/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Repos/holidays-finder/holidays-finder/Components/Pages/Weather.razor]
+[e:/Repos/holidays-finder/holidays-finder/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Repos/holidays-finder/holidays-finder/Components/Routes.razor]
+[e:/Repos/holidays-finder/holidays-finder/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Repos/holidays-finder/holidays-finder/Components/_Imports.razor]
+[e:/Repos/holidays-finder/holidays-finder/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Repos/holidays-finder/holidays-finder/Components/Layout/MainLayout.razor]
+[e:/Repos/holidays-finder/holidays-finder/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-oe1cpjm04u
 
-[E:/Repos/holidays-finder/holidays-finder/Components/Layout/NavMenu.razor]
+[e:/Repos/holidays-finder/holidays-finder/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-uytvc34n2i

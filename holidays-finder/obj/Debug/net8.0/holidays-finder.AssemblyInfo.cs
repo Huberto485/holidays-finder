@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("holidays-finder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b7f8a29b542405c23bdf9caa6abbb4bb81082ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f8a383e851ffb6b5a3c979c7bea2aca059bd92e")]
 [assembly: System.Reflection.AssemblyProductAttribute("holidays-finder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("holidays-finder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
